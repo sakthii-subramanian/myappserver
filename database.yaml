@@ -1,1 +1,1 @@
-uri: 'mongodb://localhost:27017/knf-dev'
+uri: 'mongodb+srv://dbSakthi:Lucky%402002@sakthi-first-cluster.2x8g5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
