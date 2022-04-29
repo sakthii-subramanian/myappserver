@@ -8,7 +8,7 @@ app = Flask(__name__)
 config = yaml.load(open('database.yaml'))
 client = MongoClient(config['uri'])
 # db = client.lin_flask
-db = client['knf-dev']
+db = client['testusers']
 CORS(app)
 
 @app.route('/')
